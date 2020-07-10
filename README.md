@@ -2,6 +2,8 @@
 
 My name is Marcin and I am a software engineer with a deep interest in information security. I lead the Product Security team at [Auth0](https://auth0.com), an identity platform for application builders.
 
+The best way to stay up to date on my community activities and projects is to [follow me on Twitter](https://twitter.com/marcin_hoppe).
+
 # Open Source Security
 
 I am also a member of the [Node.js Ecosystem Security Working Group](https://github.com/nodejs/security-wg) under the [OpenJS Foundation](https://openjsf.org/). My work is focused on running the [bug bounty program](https://hackerone.com/nodejs-ecosystem) for third-party Node.js packages.
